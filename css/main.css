@@ -311,7 +311,7 @@
 
 @media screen and (max-width: 712px) {
   .openMenu {
-    width: 100% !important;
+    width: 65% !important;
     height: 100vh;
   }
 }
